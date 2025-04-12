@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'Hello World!'",
-    "start": "serve"
+    "test": "echo 'Hello World!'"
+    
+    "start":   
+
   },
   "author": "",
   "license": "ISC",
